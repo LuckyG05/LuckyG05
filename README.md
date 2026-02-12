@@ -25,5 +25,5 @@ Transitioning into the world of Neural Networks & Data Intelligence.
 
 ### 📈 Activity Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyG05&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuckyG05&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </p>
