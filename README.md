@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋 <img src="https://komarev.com/ghpvc/?username=LuckyG05&label=Profile%20views&color=0e75b6&style=flat" alt="LuckyG05" align="right" />
 
 **I am Lucky, B.Tech Computer Science Student** 
 
