@@ -37,5 +37,6 @@ Building **fault-tolerant Python backends, LLM-powered developer tools, and pred
 
 ### GitHub Activity & Metrics
 <p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuckyG05&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuckyG05&show_icons=true&theme=vision-friendly-dark" alt="LuckyG05 GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuckyG05&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165" />
 </p>
